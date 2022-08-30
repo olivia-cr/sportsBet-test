@@ -1,0 +1,16 @@
+{
+  "name": "sportsbet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run-tests": "npx cypress run",
+    "open-cypress": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0",
+    "typescript": "^4.8.2"
+  }
+}
